@@ -96,4 +96,3 @@ void SW(byte num, bool val){
     case 0: digitalWrite(SW1, val); break;
   }
 }
-
